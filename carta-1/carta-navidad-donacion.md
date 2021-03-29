@@ -14,3 +14,14 @@ Para cambiar la forma en que se ajusta una imagen en el documento, haga clic y a
 EXPERIMENTO 1
 
 Los temas y estilos también ayudan a mantener su documento coordinado. Cuando haga clic en Diseño y seleccione un tema nuevo, cambiarán las imágenes, gráficos y gráficos SmartArt para que coincidan con el nuevo tema.
+
+
+
+
+
+
+
+
+ALTERNATIVA
+
+GRAN COLOMBIA
