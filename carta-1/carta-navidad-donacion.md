@@ -32,3 +32,8 @@ hasta la vistoria siempre
 forever english
 barcelona people
 
+<<<<<<< HEAD
+=======
+kitu
+messi
+>>>>>>> 7af5c5c (messi)
