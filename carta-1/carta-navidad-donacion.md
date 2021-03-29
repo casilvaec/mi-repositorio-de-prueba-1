@@ -32,4 +32,10 @@ hasta la vistoria siempre
 forever english
 barcelona people
 
+<<<<<<< HEAD
 kitu
+=======
+kitu
+messi
+ronaldo
+>>>>>>> ingles
