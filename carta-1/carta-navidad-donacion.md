@@ -28,3 +28,7 @@ GRAN COLOMBIA
 
 
 hasta la vistoria siempre
+
+forever english
+barcelona people
+
